@@ -1,5 +1,7 @@
 package labwork2;
 
+
+
 public class CowTestDriver {
     public static void main(String[] args){
         Cow bo = new Cow();
